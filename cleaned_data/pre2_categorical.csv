@@ -1,0 +1,102 @@
+,Q4_1,Q5,Q6,Q7
+2,4.5,PM < 2.5 μm,Particles of this size include dust and pollen and are the main source of seasonal rhinitis,"Cars,Dirt Roads,Electric Vehicles,Fireplaces,Pollen,Trucks"
+3,4.5,PM < 2.5 μm,Particles of this size are generally absorbed in the respiratory tract and safely excreted in mucus.,"Cars,Fireplaces"
+4,2.5,PM < 0.25 μm,Particles of this size include dust and pollen and are the main source of seasonal rhinitis,"Cars,Dirt Roads,Pollen"
+5,4,PM < 10 μm,,"Cars,Dirt Roads,Electric Vehicles,Fireplaces,Pollen,Trucks"
+6,2,PM < 1 μm,Particles of this size include dust and pollen and are the main source of seasonal rhinitis,"Cars,Dirt Roads,Fireplaces,Pollen,Trucks"
+7,,PM < 0.25 μm,,
+8,3,PM < 2.5 μm,Particles of this size reach the bronchial tree where they corrode the alveolar parenchyma.,"Cars,Dirt Roads,Fireplaces"
+9,3.5,PM < 1 μm,Particles of this size include dust and pollen and are the main source of seasonal rhinitis,"Dirt Roads,Electric Vehicles"
+10,5,PM < 25 μm,Particles of this diameter are unable to be suspended in air.,Cars
+11,5,PM < 2.5 μm,Particles of this size reach the bronchial tree where they corrode the alveolar parenchyma.,"Cars,Dirt Roads,Fireplaces,Trucks"
+12,2.5,PM < 1 μm,Particles of this size reach the bronchial tree where they corrode the alveolar parenchyma.,"Cars,Electric Vehicles,Fireplaces,Trucks"
+13,5,PM < 1 μm,Particles of this size reach the bronchial tree where they corrode the alveolar parenchyma.,"Cars,Dirt Roads,Electric Vehicles,Fireplaces,Trucks"
+14,4.5,PM < 25 μm,Particles of this size reach the bronchial tree where they corrode the alveolar parenchyma.,Trucks
+15,3,PM < 1 μm,Particles of this size are generally absorbed in the respiratory tract and safely excreted in mucus.,"Cars,Fireplaces,Trucks"
+16,2.5,PM < 1 μm,Particles of this size are generally absorbed in the respiratory tract and safely excreted in mucus.,"Cars,Electric Vehicles,Fireplaces,Trucks"
+17,3,PM < 0.25 μm,Particles of this size reach the bronchial tree where they corrode the alveolar parenchyma.,"Cars,Dirt Roads,Fireplaces,Trucks"
+18,3,PM < 0.25 μm,Particles of this size include dust and pollen and are the main source of seasonal rhinitis,"Cars,Dirt Roads,Electric Vehicles,Fireplaces,Pollen,Trucks"
+19,4,PM < 0.25 μm,Particles of this size reach the bronchial tree where they corrode the alveolar parenchyma.,"Cars,Dirt Roads,Fireplaces,Pollen,Trucks"
+20,5,PM < 2.5 μm,Particles of this size reach the bronchial tree where they corrode the alveolar parenchyma.,"Cars,Dirt Roads,Electric Vehicles,Fireplaces,Pollen,Trucks"
+21,4,PM < 0.25 μm,Particles of this size reach the bronchial tree where they corrode the alveolar parenchyma.,Cars
+22,2,PM < 1 μm,Particles of this size include dust and pollen and are the main source of seasonal rhinitis,"Cars,Dirt Roads,Fireplaces,Pollen,Trucks"
+23,3,PM < 1 μm,Particles of this size are generally absorbed in the respiratory tract and safely excreted in mucus.,"Cars,Dirt Roads,Trucks"
+24,2.5,PM < 0.05 μm,Particles of this size include dust and pollen and are the main source of seasonal rhinitis,"Cars,Dirt Roads,Fireplaces,Pollen,Trucks"
+25,1.5,PM < 2.5 μm,Particles of this size are generally absorbed in the respiratory tract and safely excreted in mucus.,"Cars,Dirt Roads,Fireplaces,Pollen,Trucks"
+26,1.5,PM < 2.5 μm,Particles of this size include dust and pollen and are the main source of seasonal rhinitis,"Cars,Trucks"
+27,2,PM < 2.5 μm,Particles of this size include dust and pollen and are the main source of seasonal rhinitis,"Cars,Dirt Roads,Electric Vehicles,Fireplaces,Pollen,Trucks"
+28,2.5,PM < 0.05 μm,Particles of this diameter are unable to be suspended in air.,"Cars,Dirt Roads,Fireplaces,Trucks"
+29,3,PM < 2.5 μm,Particles of this size are generally absorbed in the respiratory tract and safely excreted in mucus.,"Cars,Electric Vehicles,Pollen,Trucks"
+30,5,PM < 0.25 μm,Particles of this size include dust and pollen and are the main source of seasonal rhinitis,"Cars,Dirt Roads,Fireplaces,Pollen,Trucks"
+31,2.5,PM < 1 μm,Particles of this size reach the bronchial tree where they corrode the alveolar parenchyma.,Cars
+32,1,PM < 1 μm,Particles of this size are generally absorbed in the respiratory tract and safely excreted in mucus.,"Cars,Dirt Roads,Electric Vehicles,Fireplaces,Pollen,Trucks"
+33,3.5,PM < 10 μm,Particles of this size are generally absorbed in the respiratory tract and safely excreted in mucus.,Electric Vehicles
+34,3,PM < 0.25 μm,Particles of this size reach the bronchial tree where they corrode the alveolar parenchyma.,"Cars,Trucks"
+35,4,PM < 1 μm,Particles of this size reach the bronchial tree where they corrode the alveolar parenchyma.,Fireplaces
+36,5,PM < 2.5 μm,Particles of this size are generally absorbed in the respiratory tract and safely excreted in mucus.,"Cars,Dirt Roads,Fireplaces,Pollen,Trucks"
+37,3,PM < 1 μm,Particles of this size are generally absorbed in the respiratory tract and safely excreted in mucus.,"Cars,Dirt Roads,Fireplaces,Trucks"
+38,4,PM < 1 μm,Particles of this size are generally absorbed in the respiratory tract and safely excreted in mucus.,"Cars,Electric Vehicles,Fireplaces,Pollen,Trucks"
+39,5,PM < 10 μm,Particles of this size include dust and pollen and are the main source of seasonal rhinitis,"Cars,Dirt Roads,Electric Vehicles,Fireplaces"
+40,2,PM < 25 μm,Particles of this size reach the bronchial tree where they corrode the alveolar parenchyma.,Cars
+41,5,PM < 2.5 μm,Particles of this size are generally absorbed in the respiratory tract and safely excreted in mucus.,"Cars,Dirt Roads,Electric Vehicles,Fireplaces,Pollen,Trucks"
+42,3,PM < 2.5 μm,Particles of this size are generally absorbed in the respiratory tract and safely excreted in mucus.,"Cars,Dirt Roads"
+43,2,PM < 0.05 μm,Particles of this size include dust and pollen and are the main source of seasonal rhinitis,"Electric Vehicles,Fireplaces"
+44,3.5,PM < 0.25 μm,Particles of this size include dust and pollen and are the main source of seasonal rhinitis,"Cars,Dirt Roads,Electric Vehicles,Fireplaces,Pollen,Trucks"
+45,2.5,PM < 0.25 μm,Particles of this size include dust and pollen and are the main source of seasonal rhinitis,"Cars,Dirt Roads,Electric Vehicles,Fireplaces,Pollen,Trucks"
+46,3,PM < 1 μm,Particles of this size include dust and pollen and are the main source of seasonal rhinitis,Fireplaces
+47,3,PM < 1 μm,Particles of this diameter are unable to be suspended in air.,Electric Vehicles
+48,4,PM < 0.05 μm,Particles of this size reach the bronchial tree where they corrode the alveolar parenchyma.,"Cars,Dirt Roads,Electric Vehicles,Fireplaces,Pollen,Trucks"
+49,4.5,PM < 0.05 μm,Particles of this size include dust and pollen and are the main source of seasonal rhinitis,"Dirt Roads,Fireplaces,Pollen"
+50,4,PM < 1 μm,Particles of this size reach the bronchial tree where they corrode the alveolar parenchyma.,"Cars,Dirt Roads,Fireplaces,Pollen,Trucks"
+51,4,PM < 2.5 μm,Particles of this size are generally absorbed in the respiratory tract and safely excreted in mucus.,Electric Vehicles
+52,5,PM < 0.25 μm,Particles of this diameter are unable to be suspended in air.,"Cars,Electric Vehicles,Fireplaces,Trucks"
+53,4.5,PM < 1 μm,Particles of this size reach the bronchial tree where they corrode the alveolar parenchyma.,"Cars,Dirt Roads,Electric Vehicles,Fireplaces,Pollen,Trucks"
+54,3,PM < 0.05 μm,Particles of this size reach the bronchial tree where they corrode the alveolar parenchyma.,"Cars,Electric Vehicles,Fireplaces,Trucks"
+55,2.5,PM < 2.5 μm,Particles of this size reach the bronchial tree where they corrode the alveolar parenchyma.,"Cars,Dirt Roads,Fireplaces,Pollen,Trucks"
+56,5,PM < 2.5 μm,Particles of this size reach the bronchial tree where they corrode the alveolar parenchyma.,"Cars,Dirt Roads,Electric Vehicles,Fireplaces,Pollen,Trucks"
+57,2.5,PM < 0.25 μm,Particles of this size are generally absorbed in the respiratory tract and safely excreted in mucus.,"Cars,Pollen,Trucks"
+58,2,PM < 1 μm,Particles of this size reach the bronchial tree where they corrode the alveolar parenchyma.,"Cars,Electric Vehicles,Fireplaces,Trucks"
+59,4,PM < 1 μm,Particles of this size include dust and pollen and are the main source of seasonal rhinitis,"Cars,Dirt Roads,Fireplaces,Trucks"
+60,2.5,PM < 2.5 μm,Particles of this size include dust and pollen and are the main source of seasonal rhinitis,"Cars,Fireplaces,Trucks"
+61,3,PM < 0.05 μm,Particles of this size include dust and pollen and are the main source of seasonal rhinitis,"Cars,Dirt Roads,Trucks"
+62,5,PM < 2.5 μm,Particles of this size are generally absorbed in the respiratory tract and safely excreted in mucus.,"Cars,Dirt Roads,Fireplaces,Trucks"
+63,2,PM < 1 μm,Particles of this size include dust and pollen and are the main source of seasonal rhinitis,"Cars,Dirt Roads,Electric Vehicles,Fireplaces,Pollen,Trucks"
+64,4,PM < 10 μm,Particles of this size are generally absorbed in the respiratory tract and safely excreted in mucus.,"Cars,Dirt Roads,Fireplaces,Pollen,Trucks"
+65,3,PM < 25 μm,Particles of this size are generally absorbed in the respiratory tract and safely excreted in mucus.,Cars
+66,5,PM < 0.25 μm,Particles of this size include dust and pollen and are the main source of seasonal rhinitis,Cars
+67,3.5,PM < 1 μm,Particles of this size reach the bronchial tree where they corrode the alveolar parenchyma.,"Cars,Dirt Roads,Fireplaces,Pollen,Trucks"
+68,5,PM < 2.5 μm,Particles of this size reach the bronchial tree where they corrode the alveolar parenchyma.,"Cars,Dirt Roads,Fireplaces,Pollen,Trucks"
+69,3,PM < 1 μm,Particles of this size include dust and pollen and are the main source of seasonal rhinitis,"Dirt Roads,Fireplaces,Pollen"
+70,2.5,PM < 1 μm,Particles of this size include dust and pollen and are the main source of seasonal rhinitis,Cars
+71,3,PM < 2.5 μm,Particles of this size are generally absorbed in the respiratory tract and safely excreted in mucus.,Fireplaces
+72,3.5,PM < 1 μm,Particles of this size reach the bronchial tree where they corrode the alveolar parenchyma.,Cars
+73,4.5,PM < 1 μm,Particles of this size include dust and pollen and are the main source of seasonal rhinitis,"Cars,Dirt Roads,Electric Vehicles,Fireplaces,Pollen,Trucks"
+74,3.5,PM < 2.5 μm,Particles of this diameter are unable to be suspended in air.,"Cars,Dirt Roads,Fireplaces,Pollen,Trucks"
+75,4,PM < 25 μm,Particles of this size reach the bronchial tree where they corrode the alveolar parenchyma.,"Cars,Dirt Roads,Fireplaces,Trucks"
+76,2.5,PM < 1 μm,Particles of this size are generally absorbed in the respiratory tract and safely excreted in mucus.,Electric Vehicles
+77,5,PM < 25 μm,Particles of this size reach the bronchial tree where they corrode the alveolar parenchyma.,"Cars,Dirt Roads,Electric Vehicles,Fireplaces,Pollen,Trucks"
+78,2.5,PM < 1 μm,Particles of this size reach the bronchial tree where they corrode the alveolar parenchyma.,"Cars,Dirt Roads,Electric Vehicles,Fireplaces,Pollen,Trucks"
+79,3,PM < 1 μm,Particles of this size are generally absorbed in the respiratory tract and safely excreted in mucus.,"Dirt Roads,Electric Vehicles,Fireplaces"
+80,2.5,PM < 1 μm,Particles of this size are generally absorbed in the respiratory tract and safely excreted in mucus.,Fireplaces
+81,2,PM < 0.25 μm,Particles of this size are generally absorbed in the respiratory tract and safely excreted in mucus.,"Cars,Trucks"
+82,3.5,PM < 1 μm,Particles of this size include dust and pollen and are the main source of seasonal rhinitis,"Cars,Fireplaces,Pollen,Trucks"
+83,3.5,PM < 1 μm,Particles of this size include dust and pollen and are the main source of seasonal rhinitis,"Cars,Dirt Roads,Trucks"
+84,3.5,PM < 1 μm,Particles of this size include dust and pollen and are the main source of seasonal rhinitis,"Cars,Trucks"
+85,3.5,PM < 2.5 μm,Particles of this size reach the bronchial tree where they corrode the alveolar parenchyma.,"Cars,Dirt Roads,Fireplaces,Pollen,Trucks"
+86,4,PM < 2.5 μm,Particles of this size include dust and pollen and are the main source of seasonal rhinitis,"Cars,Pollen"
+87,3,PM < 25 μm,Particles of this size include dust and pollen and are the main source of seasonal rhinitis,"Cars,Electric Vehicles,Fireplaces"
+88,4,PM < 0.25 μm,Particles of this size include dust and pollen and are the main source of seasonal rhinitis,Electric Vehicles
+89,3.5,PM < 10 μm,Particles of this diameter are unable to be suspended in air.,"Dirt Roads,Electric Vehicles,Fireplaces,Pollen"
+90,1.5,PM < 1 μm,Particles of this diameter are unable to be suspended in air.,Cars
+91,4,PM < 0.05 μm,Particles of this size are generally absorbed in the respiratory tract and safely excreted in mucus.,"Cars,Dirt Roads,Electric Vehicles,Fireplaces"
+92,2.5,PM < 0.25 μm,Particles of this size include dust and pollen and are the main source of seasonal rhinitis,Fireplaces
+93,2.5,PM < 2.5 μm,Particles of this diameter are unable to be suspended in air.,"Cars,Trucks"
+94,4.5,PM < 0.25 μm,Particles of this size include dust and pollen and are the main source of seasonal rhinitis,Fireplaces
+95,3,PM < 0.05 μm,Particles of this size reach the bronchial tree where they corrode the alveolar parenchyma.,"Cars,Fireplaces,Trucks"
+96,2,PM < 0.25 μm,Particles of this size reach the bronchial tree where they corrode the alveolar parenchyma.,"Cars,Dirt Roads,Fireplaces,Pollen,Trucks"
+97,2.5,PM < 10 μm,Particles of this size are generally absorbed in the respiratory tract and safely excreted in mucus.,"Cars,Fireplaces,Trucks"
+98,2.5,PM < 0.25 μm,Particles of this size reach the bronchial tree where they corrode the alveolar parenchyma.,"Cars,Pollen,Trucks"
+105,3,PM < 0.05 μm,,
+106,1,PM < 10 μm,,
+107,3.5,PM < 2.5 μm,,
+112,3.5,PM < 2.5 μm,,
