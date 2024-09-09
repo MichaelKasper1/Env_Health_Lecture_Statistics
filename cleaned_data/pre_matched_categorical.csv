@@ -73,7 +73,6 @@ SEF122,4,PM < 0.05 μm,Particles of this size reach the bronchial tree where the
 SEF142,3,PM < 2.5 μm,Particles of this size are generally absorbed in the respiratory tract and safely excreted in mucus.,Fireplaces
 SG1496,5,PM < 25 μm,Particles of this size reach the bronchial tree where they corrode the alveolar parenchyma.,"Cars,Dirt Roads,Electric Vehicles,Fireplaces,Pollen,Trucks"
 SG1943,3,PM < 1 μm,Particles of this diameter are unable to be suspended in air.,Electric Vehicles
-SJE67,2.5,PM < 1 μm,Particles of this size are generally absorbed in the respiratory tract and safely excreted in mucus.,Electric Vehicles
 SP2098,4.5,PM < 1 μm,Particles of this diameter are unable to be suspended in air.,"Cars,Dirt Roads,Fireplaces,Pollen,Trucks"
 SPH108,3,PM < 0.05 μm,Particles of this size reach the bronchial tree where they corrode the alveolar parenchyma.,"Cars,Dirt Roads,Fireplaces,Trucks"
 SR1124,4,PM < 0.25 μm,Particles of this size reach the bronchial tree where they corrode the alveolar parenchyma.,Cars
